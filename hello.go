@@ -2,5 +2,5 @@ package main
 
 import "fmt"
 func main() {
-    printf("Hello world!\n")
+    fmt.printf("Hello world!\n")
 }
